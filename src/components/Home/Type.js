@@ -5,7 +5,7 @@ const FlipText = () => {
   const texts = [
     "Freelancer",
     "Software Developer",
-    "Application Development",
+    "App Development",
     "AI Tools",   
     "Web Development",
 
